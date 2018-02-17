@@ -5,3 +5,8 @@ Showing environment variables provided in various CI environments
 
     ./run
 
+# providers
+
+* travis
+* circle
+* codeship
