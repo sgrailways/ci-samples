@@ -1,0 +1,4 @@
+image: openjdk:8-jdk
+job1:
+  script: ./run
+
