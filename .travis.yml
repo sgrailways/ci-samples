@@ -1,4 +1,5 @@
 language: java
+group: travis_latest
 install: true
 script: ./run
 
