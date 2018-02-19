@@ -1,5 +1,5 @@
 # ci-samples
-Showing environment variables provided in various CI environments
+Showing sorted environment variables provided in various CI environments
 
 # running
 
